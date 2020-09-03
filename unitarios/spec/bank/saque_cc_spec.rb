@@ -1,5 +1,7 @@
 require_relative '../../app/bank'
 
+#teste
+
 describe ContaCorrente do
 
     describe 'Saque' do
